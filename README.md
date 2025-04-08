@@ -6,5 +6,5 @@ git clone https://github.com/GorxuCoder/GorxuXSSScanner.git
    
    pip install -r requirements.txt
   
-   python GorxuXSSScanner
+   python main.py
    http://example.com
