@@ -2,9 +2,9 @@
 
 git clone https://github.com/GorxuCoder/GorxuXSSScanner.git
 
-   cd xss-scanner
+   cd GorxuXSSScanner
    
    pip install -r requirements.txt
   
-   python xss_scanner.py
+   python GorxuXSSScanner
    http://example.com
